@@ -1,0 +1,23 @@
+
+
+.btn-info {
+	background-color: pink;
+}
+.btn-info:hover {
+	background-color: #73f;
+}
+.btn-info:focus:active {
+background-color: #73a ;
+}
+
+/*
+*/
+.computer-bg {
+	background-image: url('../images/red2.jpeg');
+	background-position: center;
+	background-size: cover;
+}
+
+h1 {
+	color: pink;
+}
